@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Aerostat.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\.idea\.idea.Aerostat\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

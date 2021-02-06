@@ -1,0 +1,150 @@
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Views\FlightView.g.cs
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Views\MainView.g.cs
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Views\ModifyView.g.cs
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\App.g.cs
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat_MarkupCompile.cache
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat_MarkupCompile.lref
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Aerostat.exe.config
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Aerostat.exe
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Aerostat.pdb
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Caliburn.Micro.dll
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Caliburn.Micro.xml
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\duda2\source\repos\Aerostat\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\App.baml
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Views\FlightView.baml
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Views\MainView.baml
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Views\ModifyView.baml
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.g.resources
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.Properties.Resources.resources
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.csproj.GenerateResource.cache
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.csproj.CoreCompileInputs.cache
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.csproj.CopyComplete
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.exe
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.pdb
+C:\Users\duda2\source\repos\Aerostat\Aerostat\obj\Debug\Aerostat.csprojAssemblyReference.cache
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Aerostat.exe.config
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Aerostat.exe
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Aerostat.pdb
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.xml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csprojAssemblyReference.cache
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\FlightView.g.cs
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\MainView.g.cs
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\ModifyView.g.cs
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\App.g.cs
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat_MarkupCompile.cache
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat_MarkupCompile.lref
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\App.baml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\FlightView.baml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\MainView.baml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\ModifyView.baml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.g.resources
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.Properties.Resources.resources
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.GenerateResource.cache
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.CoreCompileInputs.cache
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.CopyComplete
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.exe
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.pdb
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Linq.Async.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Linq.Async.xml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bob03\Downloads\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.exe.config
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Aerostat.exe.config
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Aerostat.exe
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Aerostat.pdb
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Linq.Async.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Linq.Async.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csprojAssemblyReference.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.exe.config
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\FlightView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\MainView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\ModifyView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\App.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat_MarkupCompile.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat_MarkupCompile.lref
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\App.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\FlightView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\MainView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\ModifyView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.g.resources
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.Properties.Resources.resources
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.GenerateResource.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.CoreCompileInputs.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.CopyComplete
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.exe
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Aerostat.pdb
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\CasingOverheatDialogView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat (3)\Aerostat\obj\Debug\Views\CasingOverheatDialogView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Aerostat.exe.config
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Aerostat.exe
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Aerostat.pdb
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\System.Linq.Async.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\System.Linq.Async.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csprojAssemblyReference.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.exe.config
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\CasingOverheatDialogView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\FlightView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\MainView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\ModifyView.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\App.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat_MarkupCompile.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat_MarkupCompile.lref
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\App.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\CasingOverheatDialogView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\FlightView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\MainView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Views\ModifyView.baml
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.g.resources
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.Properties.Resources.resources
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.GenerateResource.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.CoreCompileInputs.cache
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.csproj.CopyComplete
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.exe
+C:\Users\duda2\Desktop\Aerostat (3)\Aerostat\obj\Debug\Aerostat.pdb

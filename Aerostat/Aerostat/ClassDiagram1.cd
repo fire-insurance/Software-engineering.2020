@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aerostat.Classes.Aerostat">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAACANAQIABABQAAQgNAADAAAEAAAABAAGAAACCA=</HashCode>
+      <FileName>Classes\Aerostat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aerostat.Classes.Basket">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAAAAgAAAAAAAAAAAAAAABAAAAAQAAAACAAAA=</HashCode>
+      <FileName>Classes\Basket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aerostat.Classes.Casing">
+    <Position X="3.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAAAAkAAAABAAAAACAAAABgAAAAQIAAACCAAA=</HashCode>
+      <FileName>Classes\Casing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aerostat.Classes.Heater">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACAAAAAgAAAAAAAAAAAAAAEBAAABAQIAAACCAAA=</HashCode>
+      <FileName>Classes\Heater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aerostat.Models.MainModel">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>Ek0AGAhYMFwbBABBAAAIAJCCLAAAEAAAIBgAGgJggDA=</HashCode>
+      <FileName>Models\MainModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aerostat.ViewModels.FlightViewModel">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EMxAAAmAACAAAABACAgAASAACAEAgAAACAgAAgJKAAg=</HashCode>
+      <FileName>ViewModels\FlightViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aerostat.ViewModels.MainViewModel">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\MainViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aerostat.ViewModels.ModifyViewModel">
+    <Position X="9.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAgAEDAAAQABABAQABAABIEAkEAIIAgACAAIAAQ=</HashCode>
+      <FileName>ViewModels\ModifyViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
